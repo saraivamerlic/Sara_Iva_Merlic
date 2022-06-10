@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*CSS Document*/
+p {
+  color: CornflowerBlue;
+  background-color: AliceBlue;
+  width: 500px;
+  padding: 35px;
+}
+body {
+  background-color: LightYellow;
+}
+h1, h2, h3, h4 {
+  color: rgba(72, 99, 160, 2);
+}
+ul, ol {
+  color: rgba(72, 99, 160, 0.7);
+  padding: 30px;
+  background-color: rgba(204, 204, 255, 0.5);
+  width: 150px;
+}
+
